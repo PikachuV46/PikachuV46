@@ -1,1 +1,1 @@
-<h1>Greninja 1</h1>
+<h1>Greninja</h1>
